@@ -1,0 +1,12 @@
+{
+  "name": "ai-partner-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static marketing site + blog for AI Partner 2.0",
+  "scripts": {
+    "publish-blog": "node scripts/publish-blog.js"
+  },
+  "dependencies": {
+    "marked": "^13.0.0"
+  }
+}

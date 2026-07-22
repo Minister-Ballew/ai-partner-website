@@ -1,0 +1,6 @@
+{
+  "devto": {
+    "enabled": true,
+    "apiKey": "PASTE_YOUR_DEV_TO_API_KEY_HERE"
+  }
+}
